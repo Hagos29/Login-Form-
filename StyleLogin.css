@@ -1,0 +1,50 @@
+body
+{
+	background-color:white;
+    color:grey
+    font: normal 16px Verdana,Geneva,sans-serif;
+    line-height: 1.6em;
+    margin:0;
+}
+.button{
+    color: black;
+    padding: 10px 15px;
+    margin:10%;
+    border: none;
+}
+
+ h1{
+    margin: 40%;
+    margin-top: 70PX;
+    margin-bottom: 20px;
+    color:tomato;
+    font-size: 26px;
+width: 30%;
+padding-left: 10%;
+}
+
+button:hover{
+    background-color:blue;
+    color:red;
+}
+button:active{
+    color:green;
+
+}
+.loginform{
+    width:30%;
+    margin-left: 40%;
+    margin-RIGHT: 40%;
+    
+    padding: 3px;
+}
+
+}
+.loginform label{
+	display: block;
+}
+.loginform input{
+	padding: 8px;
+	width: 100%; 
+}
+
